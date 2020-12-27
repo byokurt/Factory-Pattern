@@ -1,2 +1,2 @@
-# Factory-Pattern
+# Factory Pattern
 Factory Pattern Örnek Kullanımı
